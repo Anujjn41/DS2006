@@ -6,3 +6,4 @@ git config --global user.name "<Anujin>"
 
 Hello World! 
 Hello Anujin, it is me Lukas!
+Hello, it is me Nike :)
